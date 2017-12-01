@@ -40,9 +40,8 @@ public class WebServer {
                         out.println("HTTP/1.1 404 Not Found");
                         out.println("Content-type: text/html");
                         out.println("Content-length: " + FileNotFound.length() + "\n");
-                        while(notFound.ready()) {
-                            out.println(notFound.readLine());
-                        }
+                        out.println(notFound.readLine());
+
                     }
                 }
             }
