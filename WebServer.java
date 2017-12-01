@@ -3,7 +3,7 @@
  *	author: Daniel Spencer, David Shin
  *	class: CS 380 - computer networks
  *
- *	assignment: Exercise 7
+ *	assignment: Exercise 8
  *	date last modified: 11/30/2017
  *
  *	purpose: In this exercise, we will create a simple web server.
